@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 04 16:21:56 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0166-e0d1-7967-00000e0dc0c0 
+on database directory /home/lucas/School/DistJava/ItenProject/DB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/lucas/School/DistJava/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/home/lucas/School/DistJava/ItenProject
+os.name=Linux
+os.arch=amd64
+os.version=4.13.0-46-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
